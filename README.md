@@ -36,4 +36,16 @@ Follow these steps to get the project up and running on your local machine:
    git clone https://github.com/BrotherDev/Ticketing-System.git
 
 
+<img src="Screenshots/ticketsystem (1).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (2).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (3).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (4).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (5).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (6).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (7).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (8).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (9).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (10).png" width="50%" height="50%">
+<img src="Screenshots/ticketsystem (11).png" width="50%" height="50%">
+
    
